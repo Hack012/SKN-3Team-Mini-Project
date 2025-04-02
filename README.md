@@ -21,8 +21,7 @@
 
 | 브랜치명 | 목적 |
 |----------|------|
-| `main` | 최종 배포용 코드 |
-| `dev` | 통합 개발 브랜치 |
+| `main` | 메인 |
 | `feature/template-list` | 템플릿 목록 조회 기능 개발 |
 | `feature/text-input` | 텍스트 입력 및 처리 기능 개발 |
 | `feature/font-select` | 폰트 선택 기능 개발 |
